@@ -14,7 +14,7 @@ I'm deepening my understanding of modern fullstack development techniques and pr
 Build a Slack Clone with Angular & Firebase <br><br>
 
 - 👨‍💻 Some of my projects are available at <a href="https://luft-alexander.de" title="Alexander Luft Portfolio">
-    Benjamin Tietz Portfolio
+    Alex`s Portfolio
 </a>
 
 
