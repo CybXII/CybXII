@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @Alex L.</h1>
+<h1 align="center">Hi 👋, I'm @Alexander L.</h1>
 <h3 align="center">A passionate fullstack developer from Germany</h3>
 
 ## What I'm Currently Learning 📚
@@ -11,10 +11,10 @@ I'm deepening my understanding of modern fullstack development techniques and pr
 
 
 ## I'm currently working on 🛠
-Build a Slack Clone with Angular & Firebase <br><br>
+Actually i`m reworking my Join WebApp with Angular & Angular-Material and integrating my own backend into this App with Django & RestFramework<br><br>
 
 - 👨‍💻 Some of my projects are available at <a href="https://luft-alexander.de" title="Alexander Luft Portfolio">
-    Alex`s Portfolio
+    Alexander`s Portfolio
 </a>
 
 
