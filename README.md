@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @Alex L.</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h3 align="center">A passionate fullstack developer from Germany</h3>
 
 ## What I'm Currently Learning 📚
 
