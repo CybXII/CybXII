@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @Alexander L.</h1>
+<h1 align="center">Hi 👋, I'm Alexander Luft</h1>
 <h3 align="center">A passionate fullstack developer from Germany</h3>
 
 ## What I'm Currently Learning 📚
