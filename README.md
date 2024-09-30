@@ -11,7 +11,7 @@ I'm deepening my understanding of modern fullstack development techniques and pr
 
 
 ## I'm currently working on 🛠
-Actually i`m reworking my Join WebApp with Angular & Angular-Material and integrating my own backend into this App with Django & RestFramework<br><br>
+Actually i`m working on a Videostream axample APP with Angular, Django & RestFramework<br><br>
 
 - 👨‍💻 Some of my projects are available at <a href="https://luft-alexander.de" title="Alexander Luft Portfolio">
     Alexander`s Portfolio
