@@ -56,4 +56,4 @@ Actually i`m working on a Videostream example APP with Angular, Django & RestFra
 
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=CybXII&show_icons=true&theme=dark&locale=en)](https://github.com/CybXII)<br>
 
-[![Alex's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CybXII&theme=dark)](https://github.com/CybXII) 
+![Alex's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CybXII&theme=dark)(https://github.com/CybXII) 
