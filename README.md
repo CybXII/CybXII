@@ -52,7 +52,7 @@ Actually i`m working on a Videostream example APP with Angular, Django & RestFra
 </p>
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=CybXII&show_icons=true&border_color=CF871&bg_color=90%2C0E0000%2CFF0000&locale=en&layout=compact)](https://github.com/CybXII)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=CybXII&show_icons=true&border_color=CF871&bg_color=90%2C0E0000%2CFF0000&locale=en&layout=donut)](https://github.com/CybXII)<br>
 
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=CybXII&show_icons=true&border_color=CF871F&bg_color=90%2C0E0000%2CFF0000&locale=en)](https://git.io/streak-stats)<br>
 
