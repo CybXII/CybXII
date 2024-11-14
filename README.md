@@ -1,7 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CybXII/snk/output/github-snake-red.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CybXII/snk/output/github-red.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/CybXII/snk/output/github-red.svg" />
+<img src="https://raw.githubusercontent.com/<CybXII>/snk/output/github-snake.svg?color_snake=orange&color_dots=#ffe5e5,#ffcccc,#ff9999,#ff6666,#ff3333" alt="github-snake" />
+
 </picture>
 
 ---
