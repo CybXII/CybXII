@@ -1,3 +1,12 @@
+<h2 align="center">📅 Contribution Activity 📅</h2>
+<div align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnPhuoc2410/AnPhuoc2410/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnPhuoc2410/AnPhuoc2410/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AnPhuoc2410/AnPhuoc2410/output/github-snake.svg" />
+   <br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CybXII&bg_color=0e1116&color=58a6ff&line=9e4c98&point=1a1b27&area_color=1a1b27&area=true" width="100%"/>
+</div>
+
 ![GitHub Snake animation](https://raw.githubusercontent.com/CybXII/snk/output/github-contribution-grid-snake-dark.svg)
 ---
 <h1 align="center">Hi 👋, I'm Alex</h1>
