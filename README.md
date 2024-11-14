@@ -1,4 +1,4 @@
-![GitHub Snake animation](https://raw.githubusercontent.com/cYBxii/snk/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake animation](https://raw.githubusercontent.com/CybXII/snk/output/github-contribution-grid-snake-dark.svg)
 ---
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate developer from Germany, diving deep into the world of fullstack development</h3>
