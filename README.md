@@ -1,4 +1,4 @@
-![GitHub Snake animation](https://raw.githubusercontent.com/CybXII/snk/blob/output/github-snake.svg)
+![GitHub Snake animation](https://raw.githubusercontent.com/CybXII/snk/output/github-snake.svg)
 
 ---
 
