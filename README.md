@@ -40,7 +40,7 @@ You can find more about my work on [Alex Portfolio](https://luft-alexander.de).
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=CybXII&show_icons=true&icon_color=ed8326&title_color=ed8326&text_color=FFFFFF&border_color=CF871F&bg_color=90%2C0E0000%2CFF0000&locale=en)](https://git.io/streak-stats)<br>
 </div>
 
-<div align="center" style="display: flex; gap: 5px;">
+<div style="display: flex; gap: 5px;">
    
 <div>
    
