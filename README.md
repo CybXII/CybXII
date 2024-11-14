@@ -1,7 +1,7 @@
 <h2 align="center">📅 Contribution Activity 📅</h2>
 <div align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CybXII/CybXII/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CybXII/CybXII/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CybXII/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CybXII/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/CybXII/CybXII/output/github-snake.svg" />
 </div>
 ---
