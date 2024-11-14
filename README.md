@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate developer from Germany, diving deep into the world of fullstack development</h3>
 
-## 🚀 Tech Stack
+## 🚀 My Current Focus
 I'm expanding my expertise in the following technologies, tools, and frameworks:
 
 - **Frontend:** Angular (with a focus on state management and reactive programming), Javascript/Typescript, HTML, CSS, SCSS
