@@ -1,9 +1,9 @@
 <h2 align="center">📅 Contribution Activity 📅</h2>
-<div align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CybXII/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CybXII/dist/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/CybXII/CybXII/output/github-snake.svg" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CybXII/my-profile/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CybXII/my-profile/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/CybXII/my-profile/output/github-snake.svg" />
+</picture>
 ---
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate developer from Germany, diving deep into the world of fullstack development</h3>
