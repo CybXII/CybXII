@@ -38,19 +38,9 @@ You can find more about my work on [Alex Portfolio](https://luft-alexander.de).
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=CybXII&show_icons=true&title_color=ed8326&text_color=FFFFFF&border_color=ed8326&bg_color=90%2C0E0000%2CFF0000&locale=en&layout=donut)](https://github.com/CybXII)<br>
 
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=CybXII&show_icons=true&icon_color=ed8326&title_color=ed8326&text_color=FFFFFF&border_color=CF871F&bg_color=90%2C0E0000%2CFF0000&locale=en)](https://git.io/streak-stats)<br>
-</div>
 
-<div style="width: 100%; display: flex; flex-direction: row; gap: 5px;">
-   
-<div>
-   
-   [![Alex`s Streak](https://github-readme-streak-stats.herokuapp.com?user=CybXII&theme=dark&border=CF871F&background=90%2C0E0000%2CFF0000)](https://git.io/streak-stats)
+[![Alex`s Streak](https://github-readme-streak-stats.herokuapp.com?user=CybXII&theme=dark&border=CF871F&background=90%2C0E0000%2CFF0000)](https://git.io/streak-stats)
 
-</div>
-   
-<div>
-   ![](https://github-contributor-stats.vercel.app/api?username=CybXII&limit=5&theme=dark&border_color=CF871F&bg_color=90%2C0E0000%2CFF0000&icon_color=ed8326&title_color=ed8326&text_color=FFFFFF&combine_all_yearly_contributions=true)
-</div>
-
+![](https://github-contributor-stats.vercel.app/api?username=CybXII&limit=5&theme=dark&border_color=CF871F&bg_color=90%2C0E0000%2CFF0000&icon_color=ed8326&title_color=ed8326&text_color=FFFFFF&combine_all_yearly_contributions=true)
 
 </div>
