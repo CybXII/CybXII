@@ -1,4 +1,4 @@
-![GitHub Snake animation](https://raw.githubusercontent.com/CybXII/snk/dist/github-contribution-grid-snake-red.svg)
+![GitHub Snake animation](https://raw.githubusercontent.com/CybXII/snk/output/github-contribution-grid-snake.svg?color_snake=orange&color_dots=#ffe5e5,#ffcccc,#ff9999,#ff6666,#ff3333")
 
 ---
 
