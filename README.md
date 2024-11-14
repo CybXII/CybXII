@@ -2,7 +2,7 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="CybXII/snk/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="[CybXII/snk/output/github-snake.svg](https://github.com/CybXII/snk/blob/output/github-snake.svg)" />
    <img alt="github-snake" src="https://github.com/CybXII/snk/blob/output/github-snake.svg" />
 </picture>
 
