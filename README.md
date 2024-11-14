@@ -1,4 +1,3 @@
-<h2 align="center">📅 Contribution Activity 📅</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CybXII/snk/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CybXII/snk/output/github-snake.svg" />
