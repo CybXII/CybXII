@@ -33,7 +33,9 @@ You can find more about my work on [Alexander's Portfolio](https://luft-alexande
 
 <div align="flex-start" style="display: flex; align-items: center; justify-content: center; gap: 5px;">
   # 📊 GitHub Stats: 
- [![](https://visitcount.itsvg.in/api?id=CybXII&icon=2&color=4)](https://visitcount.itsvg.in)
+   <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=CybXII&icon=2&color=4" alt="Visit Count"/>
+  </a>
 </div>
 <div align="center">
 
