@@ -4,7 +4,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CybXII/snk/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/CybXII/snk/output/github-snake.svg" />
 </picture>
+
 ---
+
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate developer from Germany, diving deep into the world of fullstack development</h3>
 
