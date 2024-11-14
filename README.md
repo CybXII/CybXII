@@ -27,9 +27,6 @@ In my spare time, I’ve developed extensive experience in **GTA5** and **Red De
 
 You can find more about my work on [Alexander's Portfolio](https://luft-alexander.de).
 
-## 🌱 Looking to Connect
-I'm always interested in discussing new technologies, troubleshooting challenges, and collaborating on exciting projects. Feel free to reach out!
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
