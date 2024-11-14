@@ -40,14 +40,8 @@ You can find more about my work on [Alexander's Portfolio](https://luft-alexande
 
 [![Alex`s Streak](https://github-readme-streak-stats.herokuapp.com?user=CybXII&theme=dark&border=CF871F&background=90%2C0E0000%2CFF0000)](https://git.io/streak-stats)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CybXII&limit=5&theme=dark&border=CF871F&background=90%2C0E0000%2CFF0000&combine_all_yearly_contributions=true)
 </div>
 
-
-
 ---
-
