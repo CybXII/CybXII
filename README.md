@@ -33,14 +33,14 @@ You can find more about my work on [Alex Portfolio](https://luft-alexander.de).
 <div style="display: flex; gap: 5px;">
    <h3>📊 GitHub Stats:</h3><a href=""><img src="https://visitcount.itsvg.in/api?id=CybXII&icon=2&color=4" alt="Visit Count"/></a>
 </div>
-<div align="center">
+<div align="center" style="display: flex; gap: 5px;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=CybXII&show_icons=true&title_color=ed8326&text_color=FFFFFF&border_color=ed8326&bg_color=90%2C0E0000%2CFF0000&locale=en&layout=donut)](https://github.com/CybXII)<br>
 
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=CybXII&show_icons=true&icon_color=ed8326&title_color=ed8326&text_color=FFFFFF&border_color=CF871F&bg_color=90%2C0E0000%2CFF0000&locale=en)](https://git.io/streak-stats)<br>
 </div>
 
-<div align="center">
+<div align="center" style="display: flex; gap: 5px;">
    
 [![Alex`s Streak](https://github-readme-streak-stats.herokuapp.com?user=CybXII&theme=dark&border=CF871F&background=90%2C0E0000%2CFF0000)](https://git.io/streak-stats)
 
