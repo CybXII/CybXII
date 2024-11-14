@@ -1,26 +1,35 @@
-<h1 align="center">Hi 👋, I'm Alex</h1> <h3 align="center">A passionate developer from Germany, diving deep into the world of fullstack development</h3>
-🚀 Tech Stack
+<h1 align="center">Hi 👋, I'm Alex</h1>
+<h3 align="center">A passionate developer from Germany, diving deep into the world of fullstack development</h3>
+
+## 🚀 Tech Stack
 I'm expanding my expertise in the following technologies, tools, and frameworks:
 
-Frontend: Angular (with a focus on state management and reactive programming), Javascript/Typescript, HTML, CSS, SCSS
-Backend: Django, Django REST Framework, Python
-Database: PostgreSQL, SQLite, phpMyAdmin (for personal projects)
-Cloud & Hosting: Google Firebase (used for personal projects)
-Version Control & CI/CD: GitHub, GitLab, GitHub Actions
-Server Management: Supervisor, Nginx
-📚 What I'm Currently Learning
+- **Frontend:** Angular (with a focus on state management and reactive programming), Javascript/Typescript, HTML, CSS, SCSS
+- **Backend:** Django, Django REST Framework, Python
+- **Database:** PostgreSQL, SQLite, phpMyAdmin (for personal projects)
+- **Cloud & Hosting:** Google Firebase (used for personal projects)
+- **Version Control & CI/CD:** GitHub, GitLab, GitHub Actions
+- **Server Management:** Supervisor, Nginx
+
+## 📚 What I'm Currently Learning
 I'm focusing on best practices for fullstack development, such as responsive design, web accessibility, and optimizing frontend and backend integration. My goal is to master modern approaches to building scalable, efficient applications.
 
-🛠 What I'm Working On
-I'm currently working on Coderr, a project that allows me to deepen my backend skills with Django and Django REST Framework. Following that, I'll be diving into DaBubble, a project focused on enhancing my Angular skills.
+## 🛠 What I'm Working On
+I'm currently working on **Coderr**, a project that allows me to deepen my backend skills with Django and Django REST Framework. Following that, I'll be diving into **DaBubble**, a project focused on enhancing my Angular skills.
 
-🎮 Gaming & Server Projects
-In my spare time, I’ve developed extensive experience in GTA5 and Red Dead Redemption 2 modding and server management. I’ve set up and administrated FiveM and RedM servers, including scripting custom functionalities and debugging complex issues to enhance the player experience.
+## 🎮 Gaming & Server Projects
+In my spare time, I’ve developed extensive experience in **GTA5** and **Red Dead Redemption 2** modding and server management. I’ve set up and administrated **FiveM** and **RedM** servers, including scripting custom functionalities and debugging complex issues to enhance the player experience.
 
-Other Skills
-3ds Max: Developed skills in mapping and debugging during gaming projects, focusing on resolving complex mapping bugs over a year of intensive work.
+## Other Skills
+- **3ds Max**: Developed skills in mapping and debugging during gaming projects, focusing on resolving complex mapping bugs over a year of intensive work.
 
-- 📫 How to reach me **info@luft-alexander.de**<br><br>
+---
+
+You can find more about my work on [Alexander's Portfolio](https://luft-alexander.de).
+
+## 🌱 Looking to Connect
+I'm always interested in discussing new technologies, troubleshooting challenges, and collaborating on exciting projects. Feel free to reach out!
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
