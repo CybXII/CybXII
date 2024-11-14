@@ -13,9 +13,6 @@ I'm expanding my expertise in the following technologies, tools, and frameworks:
 - **Version Control & CI/CD:** GitHub, GitLab, GitHub Actions
 - **Server Management:** Supervisor, Nginx
 
-## 📚 What I'm Currently Learning
-I'm focusing on best practices for fullstack development, such as responsive design, web accessibility, and optimizing frontend and backend integration. My goal is to master modern approaches to building scalable, efficient applications.
-
 ## 🛠 What I'm Working On
 I'm currently working on **Coderr**, a project that allows me to deepen my backend skills with Django and Django REST Framework. Following that, I'll be diving into **DaBubble**, a project focused on enhancing my Angular skills.
 
