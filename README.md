@@ -32,10 +32,7 @@ You can find more about my work on [Alexander's Portfolio](https://luft-alexande
 ---
 
 <div style="display: flex; align-items: center; gap: 5px;">
-   <h3>📊 GitHub Stats:</h3>
-   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=CybXII&icon=2&color=4" alt="Visit Count"/>
-  </a>
+   <h3>📊 GitHub Stats:</h3><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=CybXII&icon=2&color=4" alt="Visit Count"/></a>
 </div>
 <div align="center">
 
