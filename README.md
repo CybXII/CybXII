@@ -38,7 +38,7 @@ You can find more about my work on [Alexander's Portfolio](https://luft-alexande
 
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=CybXII&show_icons=true&icon_color=ed8326&title_color=ed8326&text_color=FFFFFF&border_color=CF871F&bg_color=90%2C0E0000%2CFF0000&locale=en)](https://git.io/streak-stats)<br>
 
-[![Alex`s Streak](https://github-readme-streak-stats.herokuapp.com?user=CybXII&icon_color=ed8326&title_color=ed8326&text_color=FFFFFF&border_color=CF871F&bg_color=90%2C0E0000%2CFF0000)](https://git.io/streak-stats)
+[![Alex`s Streak](https://github-readme-streak-stats.herokuapp.com?user=CybXII&theme=dark&border=CF871F&background=90%2C0E0000%2CFF0000)](https://git.io/streak-stats)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CybXII&limit=5&theme=dark&border=CF871F&background=90%2C0E0000%2CFF0000&combine_all_yearly_contributions=true)
