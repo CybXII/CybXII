@@ -42,8 +42,18 @@ You can find more about my work on [Alex Portfolio](https://luft-alexander.de).
 
 <div align="center" style="display: flex; gap: 5px;">
    
-[![Alex`s Streak](https://github-readme-streak-stats.herokuapp.com?user=CybXII&theme=dark&border=CF871F&background=90%2C0E0000%2CFF0000)](https://git.io/streak-stats)
+<div>
+   
+   [![Alex`s Streak](https://github-readme-streak-stats.herokuapp.com?user=CybXII&theme=dark&border=CF871F&background=90%2C0E0000%2CFF0000)](https://git.io/streak-stats)
 
-![](https://github-contributor-stats.vercel.app/api?username=CybXII&limit=5&theme=dark&border_color=CF871F&bg_color=90%2C0E0000%2CFF0000&icon_color=ed8326&title_color=ed8326&text_color=FFFFFF&combine_all_yearly_contributions=true)
+</div>
+   
+<div>
+   
+   ![](https://github-contributor-stats.vercel.app/api?username=CybXII&limit=5&theme=dark&border_color=CF871F&bg_color=90%2C0E0000%2CFF0000&icon_color=ed8326&title_color=ed8326&text_color=FFFFFF&combine_all_yearly_contributions=true)
+
+
+</div>
+
 
 </div>
