@@ -6,8 +6,8 @@ I'm expanding my expertise in the following technologies, tools, and frameworks:
 
 - **Frontend:** Angular (with a focus on state management and reactive programming), Javascript/Typescript, HTML, CSS, SCSS
 - **Backend:** Django, Django REST Framework, Python
-- **Database:** PostgreSQL, SQLite, phpMyAdmin (for personal projects)
-- **Cloud & Hosting:** Google Firebase (used for personal projects)
+- **Database:** PostgreSQL, SQLite, phpMyAdmin
+- **Cloud & Hosting:** Google Firebase
 - **Version Control & CI/CD:** GitHub, GitLab, GitHub Actions
 - **Server Management:** Supervisor, Nginx
 
