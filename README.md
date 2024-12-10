@@ -41,9 +41,5 @@ You can find more about my work on [Alex Portfolio](https://luft-alexander.de).
 
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=CybXII&show_icons=true&icon_color=ed8326&title_color=ed8326&text_color=FFFFFF&border_color=CF871F&bg_color=90%2C0E0000%2CFF0000&locale=en)](https://git.io/streak-stats)<br>
 
-[![Alex`s Streak](https://streak-stats.demolab.com/?user=CybXII&theme=dark&border=CF871F&background=90%2C0E0000%2CFF0000)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CybXII&bg_color=90%2C0E0000%2CFF0000&color=c70000&line=f54c14&point=fafe0b&area_color=1a1b27&area=true" width="100%"/>
 </div>
