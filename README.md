@@ -33,7 +33,7 @@ You can find more about my work on [Alex Portfolio](https://luft-alexander.de).
 ---
 
 <div style="display: flex; gap: 5px;">
-   <h3>📊 GitHub Stats:</h3><a href=""><img src="https://visitcount.itsvg.in/api?id=CybXII&icon=2&color=4" alt="Visit Count"/></a>
+   <h3>📊 GitHub Stats:</h3><a href=""></a>
 </div>
 <div align="center" style="display: flex; gap: 5px;">
    
