@@ -45,10 +45,3 @@ You can find more about my work on [Alex Portfolio](https://luft-alexander.de).
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CybXII&bg_color=90%2C0E0000%2CFF0000&color=c70000&line=f54c14&point=fafe0b&area_color=1a1b27&area=true" width="100%"/>
 </div>
-
-
-
-
----
-
-[![](https://visitcount.itsvg.in/api?id=CybXII&icon=6&color=4)](https://visitcount.itsvg.in)
