@@ -43,3 +43,13 @@ You can find more about my work on [Alex Portfolio](https://luft-alexander.de).
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CybXII&bg_color=90%2C0E0000%2CFF0000&color=c70000&line=f54c14&point=fafe0b&area_color=1a1b27&area=true" width="100%"/>
 </div>
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CybXII&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=CybXII&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CybXII&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=CybXII&icon=6&color=4)](https://visitcount.itsvg.in)
