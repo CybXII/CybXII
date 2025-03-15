@@ -51,4 +51,4 @@ You can find more about my work on [Alex Portfolio](https://luft-alexander.de).
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=CybXII&icon=6&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=CybXII&icon=6&color=4)](https://visitcount.itsvg.in)
