@@ -52,4 +52,4 @@ You can find more about my work on [Alex Portfolio](https://luft-alexander.de).
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CybXII&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CybXII&icon=6&color=4)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=CybXII&icon=6&color=4)](https://visitcount.itsvg.in)
